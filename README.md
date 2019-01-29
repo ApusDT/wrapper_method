@@ -18,4 +18,4 @@ Regularization methods are the most commonly used embedded methods which penaliz
 2. [Step Bacward method](https://github.com/tharun-d/wrapper_method/blob/master/2.%20Step%20Backward.ipynb)
 3. [Exhaustive method](https://github.com/tharun-d/wrapper_method/blob/master/3.%20Exhaustive.ipynb)
 <br />
-**Click on respective files to know theoretical and practical implementation**
+### Click on respective files to know theoretical and practical implementation
